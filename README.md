@@ -11,6 +11,7 @@ Team project for Business Experimentation and Causal Methods (BA830)
 ### Language/Methods
 - Language: R
 - Questionnaire Design
+- A/B Testing
 - Exploratory Data Analysis
 - Causal Analysis (Regression Analysis)
 
