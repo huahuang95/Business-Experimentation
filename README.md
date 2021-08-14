@@ -17,7 +17,7 @@ Team project for Business Experimentation and Causal Methods (BA830)
 
 ### Project Summary
 - We considered participants' demographic information and provided different food categories options to reduce the bias in the analysis.
-- According to the regression analysis, we found that demographic and consumers' preference of food categories influence our willingness-to-pay experiment. For example,
+- According to the regression analysis, we found that demographic and consumers' preference of food categories influence their willingness-to-pay. For example,
   - People who order from a fast-food restaurant or a pizzeria are more time-sensitive.
   - People who favor ordering Chinese cuisine are slightly more in favor of short delivery time interval estimates.
   - Consumers who had high previous order frequency tended to pay more attention to food delivery time intervals.
